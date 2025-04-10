@@ -1,0 +1,20 @@
+[
+  {
+    "question": "$$\\frac{3}{10} = ?$$",
+    "answer": "0.3",
+    "theme": "fractions",
+    "level": "5e"
+  },
+  {
+    "question": "5 × 100",
+    "answer": "500",
+    "theme": "calcul",
+    "level": "6e"
+  },
+  {
+    "question": "Quel est l'opposé de -7 ?",
+    "answer": "7",
+    "theme": "relatifs",
+    "level": "4e"
+  }
+]
