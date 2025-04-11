@@ -1,0 +1,1203 @@
+[
+  {
+    "question": "$$Question\\ 1\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "1",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 2\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "2",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 3\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "3",
+    "thème": "calcul",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 4\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "4",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 5\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "5",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 6\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "6",
+    "thème": "calcul",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 7\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "7",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 8\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "8",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 9\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "9",
+    "thème": "calcul",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 10\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "10",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 11\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "11",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 12\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "12",
+    "thème": "calcul",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 13\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "13",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 14\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "14",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 15\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "15",
+    "thème": "calcul",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 16\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "16",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 17\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "17",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 18\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "18",
+    "thème": "calcul",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 19\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "19",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 20\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "20",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 1\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "1",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 2\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "2",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 3\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "3",
+    "thème": "fractions",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 4\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "4",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 5\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "5",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 6\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "6",
+    "thème": "fractions",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 7\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "7",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 8\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "8",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 9\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "9",
+    "thème": "fractions",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 10\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "10",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 11\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "11",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 12\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "12",
+    "thème": "fractions",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 13\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "13",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 14\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "14",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 15\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "15",
+    "thème": "fractions",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 16\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "16",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 17\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "17",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 18\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "18",
+    "thème": "fractions",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 19\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "19",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 20\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "20",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 1\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "1",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 2\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "2",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 3\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "3",
+    "thème": "relatifs",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 4\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "4",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 5\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "5",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 6\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "6",
+    "thème": "relatifs",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 7\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "7",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 8\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "8",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 9\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "9",
+    "thème": "relatifs",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 10\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "10",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 11\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "11",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 12\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "12",
+    "thème": "relatifs",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 13\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "13",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 14\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "14",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 15\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "15",
+    "thème": "relatifs",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 16\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "16",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 17\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "17",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 18\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "18",
+    "thème": "relatifs",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 19\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "19",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 20\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "20",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 1\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "1",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 2\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "2",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 3\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "3",
+    "thème": "proportionnalité",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 4\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "4",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 5\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "5",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 6\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "6",
+    "thème": "proportionnalité",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 7\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "7",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 8\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "8",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 9\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "9",
+    "thème": "proportionnalité",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 10\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "10",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 11\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "11",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 12\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "12",
+    "thème": "proportionnalité",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 13\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "13",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 14\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "14",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 15\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "15",
+    "thème": "proportionnalité",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 16\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "16",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 17\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "17",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 18\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "18",
+    "thème": "proportionnalité",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 19\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "19",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 20\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "20",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 1\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "1",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 2\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "2",
+    "thème": "équations",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 3\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "3",
+    "thème": "équations",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 4\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "4",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 5\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "5",
+    "thème": "équations",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 6\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "6",
+    "thème": "équations",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 7\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "7",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 8\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "8",
+    "thème": "équations",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 9\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "9",
+    "thème": "équations",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 10\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "10",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 11\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "11",
+    "thème": "équations",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 12\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "12",
+    "thème": "équations",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 13\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "13",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 14\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "14",
+    "thème": "équations",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 15\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "15",
+    "thème": "équations",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 16\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "16",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 17\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "17",
+    "thème": "équations",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 18\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "18",
+    "thème": "équations",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 19\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "19",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 20\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "[
+  {
+    "question": "$$Question\\ 1\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "1",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 2\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "2",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 3\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "3",
+    "thème": "calcul",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 4\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "4",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 5\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "5",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 6\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "6",
+    "thème": "calcul",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 7\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "7",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 8\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "8",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 9\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "9",
+    "thème": "calcul",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 10\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "10",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 11\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "11",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 12\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "12",
+    "thème": "calcul",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 13\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "13",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 14\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "14",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 15\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "15",
+    "thème": "calcul",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 16\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "16",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 17\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "17",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 18\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "18",
+    "thème": "calcul",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 19\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "19",
+    "thème": "calcul",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 20\\ sur\\ le\\ thème\\ \\text{calcul}$$",
+    "réponse": "20",
+    "thème": "calcul",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 1\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "1",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 2\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "2",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 3\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "3",
+    "thème": "fractions",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 4\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "4",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 5\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "5",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 6\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "6",
+    "thème": "fractions",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 7\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "7",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 8\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "8",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 9\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "9",
+    "thème": "fractions",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 10\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "10",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 11\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "11",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 12\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "12",
+    "thème": "fractions",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 13\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "13",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 14\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "14",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 15\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "15",
+    "thème": "fractions",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 16\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "16",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 17\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "17",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 18\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "18",
+    "thème": "fractions",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 19\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "19",
+    "thème": "fractions",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 20\\ sur\\ le\\ thème\\ \\text{fractions}$$",
+    "réponse": "20",
+    "thème": "fractions",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 1\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "1",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 2\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "2",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 3\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "3",
+    "thème": "relatifs",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 4\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "4",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 5\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "5",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 6\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "6",
+    "thème": "relatifs",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 7\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "7",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 8\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "8",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 9\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "9",
+    "thème": "relatifs",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 10\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "10",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 11\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "11",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 12\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "12",
+    "thème": "relatifs",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 13\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "13",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 14\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "14",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 15\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "15",
+    "thème": "relatifs",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 16\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "16",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 17\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "17",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 18\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "18",
+    "thème": "relatifs",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 19\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "19",
+    "thème": "relatifs",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 20\\ sur\\ le\\ thème\\ \\text{relatifs}$$",
+    "réponse": "20",
+    "thème": "relatifs",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 1\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "1",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 2\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "2",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 3\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "3",
+    "thème": "proportionnalité",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 4\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "4",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 5\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "5",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 6\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "6",
+    "thème": "proportionnalité",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 7\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "7",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 8\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "8",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 9\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "9",
+    "thème": "proportionnalité",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 10\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "10",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 11\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "11",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 12\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "12",
+    "thème": "proportionnalité",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 13\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "13",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 14\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "14",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 15\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "15",
+    "thème": "proportionnalité",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 16\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "16",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 17\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "17",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 18\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "18",
+    "thème": "proportionnalité",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 19\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "19",
+    "thème": "proportionnalité",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 20\\ sur\\ le\\ thème\\ \\text{proportionnalité}$$",
+    "réponse": "20",
+    "thème": "proportionnalité",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 1\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "1",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 2\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "2",
+    "thème": "équations",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 3\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "3",
+    "thème": "équations",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 4\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "4",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 5\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "5",
+    "thème": "équations",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 6\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "6",
+    "thème": "équations",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 7\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "7",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 8\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "8",
+    "thème": "équations",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 9\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "9",
+    "thème": "équations",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 10\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "10",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 11\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "11",
+    "thème": "équations",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 12\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "12",
+    "thème": "équations",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 13\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "13",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 14\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "14",
+    "thème": "équations",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 15\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "15",
+    "thème": "équations",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 16\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "16",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 17\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "17",
+    "thème": "équations",
+    "niveau": "4e"
+  },
+  {
+    "question": "$$Question\\ 18\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "18",
+    "thème": "équations",
+    "niveau": "3e"
+  },
+  {
+    "question": "$$Question\\ 19\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "19",
+    "thème": "équations",
+    "niveau": "5e"
+  },
+  {
+    "question": "$$Question\\ 20\\ sur\\ le\\ thème\\ \\text{équations}$$",
+    "réponse": "20",
+    "thème": "équations",
+    "niveau": "4e"
+  }
+]": "20",
+    "thème": "équations",
+    "niveau": "4e"
+  }
+]
